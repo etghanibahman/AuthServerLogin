@@ -1,4 +1,4 @@
-# banking-auth
+# auth-server-login
 
 ##### Run `./start.sh` to download the dependencies and run the the application
 
